@@ -1,55 +1,43 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif" width="200"/>
-</p>
+# Hi, I'm A. Yogeshwaran 👋
 
-<h1 align="center">Hi, I'm A. Yogeshwaran 👋</h1>
-<p align="center">Aspiring Full Stack Developer | AI & ML Enthusiast</p>
+I'm an **Aspiring Full Stack Developer** and **AI/ML Enthusiast**.  
+I love building projects that combine **Java, Python, and AI** to solve real-world problems.
 
 ---
 
 ## 💻 Tech Stack
 
-<div style="display:flex; gap:10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
 ## 🚀 Projects
 
-<p align="center">
-  <a href="https://github.com/AYogeshwaran?tab=repositories">
-    <img src="https://img.shields.io/badge/View_Projects-blue?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+### Mini Projects
+- [Inventory Management System](https://github.com/AYogeshwaran/Inventory-Management-System) – Manage retailer stock efficiently  
+- [Late Gate Entry System](https://github.com/AYogeshwaran/Late-Gate-Entry-System) – College entry monitoring project  
+- [Drug-Free Society Project](https://github.com/AYogeshwaran/Drug-Free-Society) – Innovative awareness platform
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AYogeshwaran&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYogeshwaran&layout=compact&theme=dracula" />
-</p>
+![A. Yogeshwaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYogeshwaran&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AYogeshwaran&layout=compact&theme=radical)
 
 ---
 
 ## 🌱 Currently Learning
 
-<div style="display:flex; gap:10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Generative_AI-FCA311?style=for-the-badge">
-  <img src="https://img.shields.io/badge/FullStack_Dev-06B6D4?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Cloud_Deployment-10B981?style=for-the-badge">
-  <img src="https://img.shields.io/badge/DevOps_Basics-F59E0B?style=for-the-badge">
-</div>
+- Advanced AI Models & Generative AI  
+- Full Stack Development (React + Spring Boot)  
+- Cloud Deployment & DevOps basics  
 
 ---
 
@@ -63,11 +51,7 @@
 
 ### Connect with me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/AYogeshwaran">
-    <img src="https://img.shields.io/badge/LinkedIn-A.YOGESHWARAN-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A.YOGESHWARAN-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AYogeshwaran)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+
