@@ -24,13 +24,6 @@ An aspiring Full Stack Developer || AI/ML Enthusiast || from India ❤️‍🔥
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AYogeshwaran&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AYogeshwaran&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AYogeshwaran&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 <!-- Optional Snake Game / Fun Animation -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -39,19 +32,23 @@ An aspiring Full Stack Developer || AI/ML Enthusiast || from India ❤️‍🔥
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center" style="background: linear-gradient(135deg, rgba(255,255,255,0.05), rgba(255,255,255,0.02)); backdrop-filter: blur(12px); border-radius: 20px; padding: 15px; margin: 20px;">
+![](https://quotes-github-readme.ayushsharma.me/api?type=horizontal&theme=radical)
+</div>
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AYogeshwaran&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🌱 Currently Learning
+<div align="center" style="display:flex; gap:15px; flex-wrap: wrap; justify-content:center;">
+  ![Generative AI](https://img.shields.io/badge/Generative_AI-FCA311?style=for-the-badge)
+  ![Full Stack Development](https://img.shields.io/badge/FullStack_Dev-06B6D4?style=for-the-badge)
+  ![Cloud Deployment](https://img.shields.io/badge/Cloud_Deployment-10B981?style=for-the-badge)
+  ![DevOps Basics](https://img.shields.io/badge/DevOps_Basics-F59E0B?style=for-the-badge)
+</div>
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=AYogeshwaran&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
 
 
 
