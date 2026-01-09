@@ -11,28 +11,23 @@ An aspiring Full Stack Developer || AI/ML Enthusiast || from India ❤️‍🔥
 
 ---
 
-# 💻 Tech Stack
-
-<div align="center" style="display:flex; gap:15px; flex-wrap: wrap; justify-content:center;">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" title="Java">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python">
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" title="React">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" title="Spring Boot">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB">
-</div>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center" style="background: linear-gradient(135deg, rgba(255,255,255,0.05), rgba(255,255,255,0.01)); backdrop-filter: blur(15px); border-radius: 25px; padding: 20px; margin: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AYogeshwaran&show_icons=true&theme=radical" title="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYogeshwaran&layout=compact&theme=radical" title="Top Languages">
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AYogeshwaran&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AYogeshwaran&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AYogeshwaran&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -44,14 +39,16 @@ An aspiring Full Stack Developer || AI/ML Enthusiast || from India ❤️‍🔥
 ---
 
 ### ✍️ Random Dev Quote
-### ✍️ Random Dev Quote
-<div align="center" style="background: linear-gradient(135deg, rgba(255,255,255,0.05), rgba(255,255,255,0.02)); backdrop-filter: blur(12px); border-radius: 20px; padding: 15px; margin: 20px;">
-![](https://quotes-github-readme.ayushsharma.me/api?type=horizontal&theme=radical)
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AYogeshwaran&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+
+[![](https://visitcount.itsvg.in/api?id=AYogeshwaran&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
