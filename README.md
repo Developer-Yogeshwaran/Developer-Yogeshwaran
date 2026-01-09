@@ -1,52 +1,66 @@
-# 💫 Hi 👋, I'm A. Yogeshwaran
-An aspiring Full Stack Developer || AI/ML Enthusiast || from India ❤️‍🔥
+<p align="center">
+  <img src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif" width="200"/>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AYogeshwaran) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<h1 align="center">
+  💫 Hi 👋, I'm <span style="color:#FF6F61">A. Yogeshwaran</span>
+</h1>
 
-<div align="center">
-  <img src="https://media.tenor.com/Va_MYd9zdeUAAAAM/gato-mouse.gif" width="300"/>
-</div>
+<p align="center">
+  🚀 Aspiring <b>Full Stack Developer</b> || 🤖 <b>AI & ML Enthusiast</b> || 🌏 from India ❤️‍🔥
+</p>
 
----
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/AYogeshwaran">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-<!-- Snake Game Repo View -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="350"/>
+</p>
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+---
+
+### 💻 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
+
+---
+
+### 🌱 Currently Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative_AI-FCA311?style=for-the-badge" alt="Generative AI">
+  <img src="https://img.shields.io/badge/FullStack_Dev-06B6D4?style=for-the-badge" alt="Full Stack">
+  <img src="https://img.shields.io/badge/Cloud_Deployment-10B981?style=for-the-badge" alt="Cloud">
+  <img src="https://img.shields.io/badge/DevOps_Basics-F59E0B?style=for-the-badge" alt="DevOps">
+</p>
 
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🌱 Currently Learning
-
-  ![Generative AI](https://img.shields.io/badge/Generative_AI-FCA311?style=for-the-badge)
-  ![Full Stack Development](https://img.shields.io/badge/FullStack_Dev-06B6D4?style=for-the-badge)
-  ![Cloud Deployment](https://img.shields.io/badge/Cloud_Deployment-10B981?style=for-the-badge)
-  ![DevOps Basics](https://img.shields.io/badge/DevOps_Basics-F59E0B?style=for-the-badge)
+<div align="center" style="background: linear-gradient(135deg, rgba(255,255,255,0.05), rgba(255,255,255,0.02)); backdrop-filter: blur(12px); border-radius: 20px; padding: 15px; margin: 20px;">
+![](https://quotes-github-readme.ayushsharma.me/api?type=horizontal&theme=radical)
+</div>
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=AYogeshwaran&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
