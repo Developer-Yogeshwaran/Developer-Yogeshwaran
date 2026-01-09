@@ -37,12 +37,11 @@ An aspiring Full Stack Developer || AI/ML Enthusiast || from India ❤️‍🔥
 ---
 
 ## 🌱 Currently Learning
-<div align="center" style="display:flex; gap:15px; flex-wrap: wrap; justify-content:center;">
+
   ![Generative AI](https://img.shields.io/badge/Generative_AI-FCA311?style=for-the-badge)
   ![Full Stack Development](https://img.shields.io/badge/FullStack_Dev-06B6D4?style=for-the-badge)
   ![Cloud Deployment](https://img.shields.io/badge/Cloud_Deployment-10B981?style=for-the-badge)
   ![DevOps Basics](https://img.shields.io/badge/DevOps_Basics-F59E0B?style=for-the-badge)
-</div>
 
 ---
 
