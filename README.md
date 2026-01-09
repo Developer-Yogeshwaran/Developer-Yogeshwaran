@@ -18,12 +18,16 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
+<div align="center">
+  <img src="https://media.tenor.com/Va_MYd9zdeUAAAAM/gato-mouse.gif" width="300"/>
+</div>
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="350"/>
-</p>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
@@ -53,11 +57,8 @@
 ---
 
 ### ✍️ Random Dev Quote
-<div align="center" style="background: linear-gradient(135deg, rgba(255,255,255,0.05), rgba(255,255,255,0.02)); backdrop-filter: blur(12px); border-radius: 20px; padding: 15px; margin: 20px;">
-![](https://quotes-github-readme.ayushsharma.me/api?type=horizontal&theme=radical)
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 
 [![](https://visitcount.itsvg.in/api?id=AYogeshwaran&icon=0&color=0)](https://visitcount.itsvg.in)
 
