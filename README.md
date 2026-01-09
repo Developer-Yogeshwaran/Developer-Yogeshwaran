@@ -32,9 +32,7 @@ An aspiring Full Stack Developer || AI/ML Enthusiast || from India ❤️‍🔥
 ---
 
 ### ✍️ Random Dev Quote
-<div align="center" style="background: linear-gradient(135deg, rgba(255,255,255,0.05), rgba(255,255,255,0.02)); backdrop-filter: blur(12px); border-radius: 20px; padding: 15px; margin: 20px;">
-![](https://quotes-github-readme.ayushsharma.me/api?type=horizontal&theme=radical)
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
