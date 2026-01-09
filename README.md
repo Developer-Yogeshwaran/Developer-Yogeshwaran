@@ -44,20 +44,16 @@ An aspiring Full Stack Developer || AI/ML Enthusiast || from India ❤️‍🔥
 ---
 
 ### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote
 <div align="center" style="background: linear-gradient(135deg, rgba(255,255,255,0.05), rgba(255,255,255,0.02)); backdrop-filter: blur(12px); border-radius: 20px; padding: 15px; margin: 20px;">
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.ayushsharma.me/api?type=horizontal&theme=radical)
 </div>
 
 ---
 
-### 🔝 Top Contributed Repo
-<div align="center" style="background: linear-gradient(135deg, rgba(255,255,255,0.05), rgba(255,255,255,0.02)); backdrop-filter: blur(12px); border-radius: 20px; padding: 15px; margin: 20px;">
-![](https://github-contributor-stats.vercel.app/api?username=AYogeshwaran&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</div>
 
----
 
-[![](https://visitcount.itsvg.in/api?id=AYogeshwaran&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
