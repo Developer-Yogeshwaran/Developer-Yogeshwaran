@@ -127,14 +127,8 @@
 
 ### 📊 GitHub Stats
 
-
 <p align="center">
   <img src="https://git-status-git-main-developer-yogeshwarans-projects.vercel.app/api?username=Developer-Yogeshwaran&show_icons=true&hide_border=true" />
-</p>
-
-
-<p align="center">
-  <img src="https://git-status-git-main-developer-yogeshwarans-projects.vercel.app/api/top-langs/?username=Developer-Yogeshwaran&layout=compact&hide_border=true" />
 </p>
 
 
