@@ -81,12 +81,11 @@
 ### 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Generative_AI-IBM%20%7C%20LLMs-FCA311?style=for-the-badge" alt="Generative AI">
-  <img src="https://img.shields.io/badge/Spring_Boot-Backend_Development-6DB33F?style=for-the-badge" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-Java-2563EB?style=for-the-badge" alt="DSA">
-  <img src="https://img.shields.io/badge/Cloud_Computing-Azure_Fundamentals-10B981?style=for-the-badge" alt="Cloud">
+  <img src="https://img.shields.io/badge/Generative_AI-FCA311?style=for-the-badge" alt="Generative AI">
+  <img src="https://img.shields.io/badge/FullStack_Dev-06B6D4?style=for-the-badge" alt="Full Stack">
+  <img src="https://img.shields.io/badge/Cloud_Deployment-10B981?style=for-the-badge" alt="Cloud">
+  <img src="https://img.shields.io/badge/DevOps_Basics-F59E0B?style=for-the-badge" alt="DevOps">
 </p>
-
 
 
 ---
