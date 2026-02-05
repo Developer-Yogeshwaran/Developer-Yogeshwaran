@@ -1,14 +1,14 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api
-?type=waving
-&height=190
+?type=rect
+&height=140
 &section=header
-&text=Code.%20Game.%20Code.%20Repeat.%20🎮💻
-&fontSize=34
-&fontColor=EAF6FF
-&color=0:020024,50:090979,100:00d4ff
-&animation=twinkling"/>
+&text=Code.%20Game.%20Code.%20Repeat.
+&fontSize=38
+&fontColor=ffffff
+&color=0:0a0f1c,100:101d42"/>
 </p>
+
 
 
 
