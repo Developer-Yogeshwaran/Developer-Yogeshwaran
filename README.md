@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Code.%20Game.%20Code.%20Repeat.%20🎮💻&fontSize=36&fontColor=ffffff&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Code.%20Game.%20Code.%20Repeat.&fontSize=38&fontColor=ffffff&color=0:020024,50:090979,100:00d4ff"/>
 </p>
+
 
 
 
