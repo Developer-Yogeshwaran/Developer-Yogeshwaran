@@ -90,6 +90,17 @@
 
 ---
 
+### 📜 Certifications & Training
+
+- 🎓 **Data Structures and Algorithms using Java** — NPTEL  
+- 🌐 **Networking and Web Technology** — Infosys Springboard  
+- 🧩 **Virtual Task Management Program** — Deloitte  
+- 🤖 **Generative AI Fundamentals** (LLMs, Prompt Engineering, AI Ethics) — IBM  
+- 🧠 **Artificial Intelligence Course** — CodeVibez Learning Hub  
+
+---
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
