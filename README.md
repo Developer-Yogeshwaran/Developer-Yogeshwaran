@@ -122,13 +122,14 @@
 
 
 ---
-### 📊 GitHub Stats
 
 
+### 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Developer-Yogeshwaran&show_icons=true" />
+  <img src="https://streak-stats.demolab.com?user=Developer-Yogeshwaran" />
 </p>
+
 
 
 
