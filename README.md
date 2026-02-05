@@ -31,30 +31,52 @@
 🚀 Actively preparing for **software and AI internship roles**
 
 ---
+### 🧠 My Skills
 
+<h3>
+  <p><b>Programming Languages</b></p>
+  <a href="#">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=java,python,c&titles=true" />
+  </a>
+</h3>
 
-<!-- Snake Game Repo View -->
+<h3>
+  <p><b>Backend & Application Development</b></p>
+  <a href="#">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=spring,mysql,postgres&titles=true" />
+  </a>
+</h3>
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<h3>
+  <p><b>Artificial Intelligence & Machine Learning</b></p>
+  <a href="#">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=python,sklearn,opencv&titles=true" />
+  </a>
+</h3>
+
+<h3>
+  <p><b>Generative AI & NLP</b></p>
+  <a href="#">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=langchain&titles=true" />
+  </a>
+</h3>
+
+<h3>
+  <p><b>Web Technologies</b></p>
+  <a href="#">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=html,css,js&titles=true" />
+  </a>
+</h3>
+
+<h3>
+  <p><b>Tools & Platforms</b></p>
+  <a href="#">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=git,github,vscode,linux&titles=true" />
+  </a>
+</h3>
 
 ---
 
-### 💻 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-</p>
-
----
 
 ### 🌱 Currently Learning
 <p align="center">
