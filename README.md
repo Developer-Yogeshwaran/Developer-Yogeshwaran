@@ -132,8 +132,6 @@
 ---
 
 
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -141,7 +139,23 @@
 [![](https://visitcount.itsvg.in/api?id=AYogeshwaran&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+---
 
+### 🔗 Connect with Me
 
+<p align="center">
+  <a href="[https://www.linkedin.com/in/yogeshwaran-a-64655b396]">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sudhabaanu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+cat <div align="center">
+  <img src="https://media.tenor.com/Va_MYd9zdeUAAAAM/gato-mouse.gif" width="300"/>
+</div>
+<p align="center">
+  💻 Always open to collaborating on exciting **FULL STACK DEVELOPMENT,AI, ML, or Cloud-based projects**. Let’s innovate together!
+</p>
 
-
+---
