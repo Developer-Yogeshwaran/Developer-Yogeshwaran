@@ -3,9 +3,6 @@
 </p>
 
 
-
-
-
 <p align="center">
   <img src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif" width="200"/>
 </p>
