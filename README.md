@@ -124,19 +124,6 @@
 ---
 
 
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Developer-Yogeshwaran)
-
----
-
-
-
-
-
-
----
-
 
 ### 👁 Profile Views
 
