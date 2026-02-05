@@ -28,6 +28,19 @@
   <img src="https://media.tenor.com/Va_MYd9zdeUAAAAM/gato-mouse.gif" width="300"/>
 </div>
 ---
+## 👨‍💻 About Me
+
+🎓 Pre-Final Year **B.E. Computer Science (AI & ML)** student at **Sethu Institute of Technology**  
+🤖 Interested in **Artificial Intelligence, Machine Learning, and Generative AI**  
+🧠 Working with **NLP, AI Agents, and LLM-based applications**  
+💻 Skilled in **Java, Python, C, SQL**  
+⚙️ Hands-on experience with **Spring Boot, Backend Development, and REST APIs**  
+☁️ Familiar with **Cloud Fundamentals** and **AI-powered systems**  
+📈 Continuously improving **Data Structures & Algorithms** and problem-solving skills  
+🚀 Actively preparing for **software and AI internship roles**
+
+---
+
 
 <!-- Snake Game Repo View -->
 
