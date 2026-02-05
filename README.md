@@ -124,9 +124,12 @@
 ---
 
 
+### 🔥 GitHub Streak
 
-### 📊 GitHub Stats
-![GitHub Streak](https://git-status-git-main-developer-yogeshwarans-projects.vercel.app/api?username=Developer-Yogeshwaran)
+![GitHub Streak](https://streak-stats.demolab.com?user=Developer-Yogeshwaran)
+
+---
+
 
 
 
