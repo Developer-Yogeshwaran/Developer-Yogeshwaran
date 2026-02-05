@@ -114,6 +114,15 @@
 
 ---
 
+### 🐍 GitHub Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranesh-2005/Pranesh-2005/output/github-snake.svg"/>
+</p>
+
+---
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
