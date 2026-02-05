@@ -122,6 +122,18 @@
 
 
 ---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Developer-Yogeshwaran&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Yogeshwaran&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
 
 ### 👁 Profile Views
 
