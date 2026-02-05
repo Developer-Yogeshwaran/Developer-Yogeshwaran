@@ -1,13 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api
-?type=rect
-&height=140
-&section=header
-&text=Code.%20Game.%20Code.%20Repeat.
-&fontSize=38
-&fontColor=ffffff
-&color=0:0a0f1c,100:101d42"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Code.%20Game.%20Code.%20Repeat.&fontSize=38&fontColor=ffffff&color=0:020024,50:090979,100:00d4ff"/>
 </p>
+
 
 
 
