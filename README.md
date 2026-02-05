@@ -151,9 +151,12 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-cat <div align="center">
+
+<div align="center">
   <img src="https://media.tenor.com/Va_MYd9zdeUAAAAM/gato-mouse.gif" width="300"/>
 </div>
+
+
 <p align="center">
   💻 Always open to collaborating on exciting **FULL STACK DEVELOPMENT,AI, ML, or Cloud-based projects**. Let’s innovate together!
 </p>
