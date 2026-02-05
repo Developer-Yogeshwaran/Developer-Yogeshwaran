@@ -100,6 +100,20 @@
 
 ---
 
+### 🎯 Areas of Interest
+
+- 🌐 **Full Stack Development**
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🧠 **Generative AI & Large Language Models (LLMs)**
+- 💬 **Natural Language Processing & AI Chatbots**
+- ⚙️ **AI-driven Automation & Intelligent Systems**
+- ☁️ **Cloud Computing (Azure Fundamentals)**
+- 🗄️ **Database Design & Data-Driven Applications**
+- 🚀 **Java-based Backend & AI Applications**
+
+
+---
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
