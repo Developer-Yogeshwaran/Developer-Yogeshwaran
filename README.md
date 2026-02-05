@@ -172,6 +172,8 @@
 </div>
 
 
+--- 
+
 <p align="center">
   💻 Always open to collaborating on exciting **FULL STACK DEVELOPMENT,AI, ML, or Cloud-based projects**. Let’s innovate together!
 </p>
