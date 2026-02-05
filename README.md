@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=160&section=header&text=Never%20Stop%20Learning%20🚀&fontSize=34&fontColor=ffffff"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=160&section=header&text=Pranesh's%20GitHub&fontSize=28&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=160&section=header&text=Learn.%20Build.%20Repeat.%20💡&fontSize=34&fontColor=ffffff"/>
+
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif" width="200"/>
