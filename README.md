@@ -28,7 +28,7 @@
   <img src="https://media.tenor.com/Va_MYd9zdeUAAAAM/gato-mouse.gif" width="300"/>
 </div>
 ---
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 🎓 Pre-Final Year **B.E. Computer Science (AI & ML)** student at **Sethu Institute of Technology**  
 🤖 Interested in **Artificial Intelligence, Machine Learning, and Generative AI**  
