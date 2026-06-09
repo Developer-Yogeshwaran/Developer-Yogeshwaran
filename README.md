@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About Me
 
-🎓 Pre-Final Year **B.E. Computer Science (AI & ML)** student at **Sethu Institute of Technology**  
+🎓 Final Year **B.E. Computer Science (AI & ML)** student at **Sethu Institute of Technology**  
 🤖 Interested in **Artificial Intelligence, Machine Learning, and Generative AI**  
 🧠 Working with **NLP, AI Agents, and LLM-based applications**  
 💻 Skilled in **Java, Python, C, SQL**  
